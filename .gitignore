@@ -1,0 +1,20 @@
+# Environment variables (contains secrets!)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folder (if it's inside your project, e.g., "myenv" or "venv")
+myenv/
+venv/
+.venv/
+
+# IDE specific folders (optional)
+.vscode/
+.idea/
